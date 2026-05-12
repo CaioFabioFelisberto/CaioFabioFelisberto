@@ -26,9 +26,13 @@ Currently pursuing a degree in **Artificial Intelligence**. I am passionate abou
 ---
 
 ## 📊 Minhas Estatísticas / GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaioFabioFelisberto&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioFabioFelisberto&layout=compact&theme=tokyonight)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=CaioFabioFelisberto&theme=tokyonight)
+
 ![Trophy](https://github-profile-trophy.vercel.app/?username=CaioFabioFelisberto&theme=tokyonight)
 
 
