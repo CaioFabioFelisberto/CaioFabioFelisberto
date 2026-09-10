@@ -4,6 +4,7 @@
 ---
 
 ## 🚀 Sobre Mim / About Me
+
 **🇧🇷 (PT-BR)**
 Atualmente cursando graduação em **Inteligência Artificial**. Sou apaixonado por transformar dados brutos em insights inteligentes e automatizar tarefas com Python. Estou construindo meu portfólio focando em integração de APIs, desenvolvimento web com Flask e processamento de dados.
 
@@ -13,6 +14,7 @@ Currently pursuing a degree in **Artificial Intelligence**. I am passionate abou
 ---
 
 ## 🛠️ Tecnologias / Tech Stack
+
 - **Linguagens:** Python (Core, Requests, PyOWM, Flask, Pymongo, MySQL)
 - **IA & Dados:** Manipulação de JSON, Limpeza de Dados, Lógica de Algoritmos, MongoDB, SQL
 - **Ferramentas:** Git, GitHub, VS Code, IA Generativa para Produtividade (CSS/Design)
@@ -20,20 +22,23 @@ Currently pursuing a degree in **Artificial Intelligence**. I am passionate abou
 ---
 
 ## 📈 Projetos em Destaque / Featured Projects
-- 🥘 **[Random Meal Generator](https://github.com/CaioFabioFelisberto/Random-Meal-Generator):** App Python resiliente com tratamento de exceções para sugestão de receitas via API.
-- 🌤️ **[Weather Web App](https://github.com/CaioFabioFelisberto/Weather-App):** Aplicação Flask integrada à API OpenWeatherMap para previsão do tempo em tempo real.
+
+- ⚽ **[Football Scout](https://github.com/CaioFabioFelisberto/football-scout):** Sistema em Python para análise de métricas, scouts e inteligência de dados aplicada ao futebol.
+- 🛡️ **[Spam Detector](https://github.com/CaioFabioFelisberto/spam_detector):** Classificador de textos e mensagens desenvolvido em Python para detecção automatizada de spam.
 
 ---
 
 ## 📊 Minhas Estatísticas / GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaioFabioFelisberto&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CaioFabioFelisberto&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioFabioFelisberto&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Langs" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioFabioFelisberto&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=CaioFabioFelisberto&theme=tokyonight)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=CaioFabioFelisberto&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioFabioFelisberto&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CaioFabioFelisberto&theme=tokyonight" alt="Trophy" />
+</p>
 
 ---
 
