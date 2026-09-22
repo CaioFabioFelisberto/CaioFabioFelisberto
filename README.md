@@ -38,9 +38,22 @@ Currently pursuing a degree in **Artificial Intelligence**. I am passionate abou
 
 ## 📊 Minhas Estatísticas / GitHub Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=CaioFabioFelisberto&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=CaioFabioFelisberto&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
+## 📊 Minhas Estatísticas / GitHub Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=CaioFabioFelisberto&langs_count=5&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=CaioFabioFelisberto&langs_count=5&theme=chartreuse-dark)
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/CaioFabioFelisberto">
+        <img src="https://github-stats-extended.vercel.app/api?username=CaioFabioFelisberto&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/CaioFabioFelisberto">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=CaioFabioFelisberto&langs_count=5&theme=chartreuse-dark" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
