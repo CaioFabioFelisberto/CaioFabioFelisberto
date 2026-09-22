@@ -38,8 +38,6 @@ Currently pursuing a degree in **Artificial Intelligence**. I am passionate abou
 
 ## 📊 Minhas Estatísticas / GitHub Stats
 
-## 📊 Minhas Estatísticas / GitHub Stats
-
 <table border="0">
   <tr>
     <td>
