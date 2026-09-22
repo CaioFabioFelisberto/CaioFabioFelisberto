@@ -32,6 +32,8 @@ Currently pursuing a degree in **Artificial Intelligence**. I am passionate abou
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=CaioFabioFelisberto&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=CaioFabioFelisberto&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=CaioFabioFelisberto&langs_count=5&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=CaioFabioFelisberto&langs_count=5&theme=chartreuse-dark)
+
 ---
 
 ## 📫 Vamos nos conectar? / Let's connect!
