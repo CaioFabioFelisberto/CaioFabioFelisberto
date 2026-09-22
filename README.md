@@ -15,7 +15,7 @@ Currently pursuing a degree in **Artificial Intelligence**. I am passionate abou
 
 ## 🛠️ Tecnologias / Tech Stack
 
-- **Linguagens:** <img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" />
+- **Linguagens:** ![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})
 - **IA & Dados:** Manipulação de JSON, Limpeza de Dados, Lógica de Algoritmos, MongoDB, SQL
 - **Ferramentas:** Git, GitHub, VS Code, IA Generativa para Produtividade (CSS/Design)
 
