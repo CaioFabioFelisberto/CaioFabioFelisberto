@@ -33,6 +33,7 @@ Currently pursuing a degree in **Artificial Intelligence**. I am passionate abou
 
 - ⚽ **[Football Scout](https://github.com/CaioFabioFelisberto/football-scout):** Sistema em Python para análise de métricas, scouts e inteligência de dados aplicada ao futebol.
 - 🛡️ **[Spam Detector](https://github.com/CaioFabioFelisberto/spam_detector):** Classificador de textos e mensagens desenvolvido em Python para detecção automatizada de spam.
+- 🦅 **[IcarusBot](https://github.com/CaioFabioFelisberto/icarusbot)** Bot de Telegram feito em Python (Open-Source).
 
 ---
 
