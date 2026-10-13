@@ -34,6 +34,7 @@ Currently pursuing a degree in **Artificial Intelligence**. I am passionate abou
 - ⚽ **[Football Scout](https://github.com/CaioFabioFelisberto/football-scout):** Sistema em Python para análise de métricas, scouts e inteligência de dados aplicada ao futebol.
 - 🛡️ **[Spam Detector](https://github.com/CaioFabioFelisberto/spam_detector):** Classificador de textos e mensagens desenvolvido em Python para detecção automatizada de spam.
 - 🦅 **[IcarusBot](https://github.com/CaioFabioFelisberto/icarusbot):** Bot de Telegram feito em Python (Open Source).
+- 📖 **[Bitcoin em Minutos](https://github.com/CaioFabioFelisberto/bitcoin-em-minutos):** Bitcoin em Minutos: Direto ao Ponto, Sem Complicação
 - 📖 **[O Guia Prático da Autocustodia de Bitcoin](https://github.com/CaioFabioFelisberto/o-guia-pratico-da-autocustodia-de-bitcoin):** Meu e-book 100% gratuito e open source.
 
 ---
